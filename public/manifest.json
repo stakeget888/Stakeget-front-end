@@ -1,0 +1,27 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://app.stakeget.io/",
+  "providedBy": { "name": "SKT!Swap", "url": "https://stakeget.io/" },
+  "icons": [
+    {
+      "src": "./images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "SKT!Swap",
+  "description": "Swap or provide liquidity on the Uniswap Protocol",
+  "iconPath": "./images/stakeget.svg",
+  "short_name": "SKT!Swap",
+  "start_url": ".",
+  "theme_color": "#ff007a"
+}
